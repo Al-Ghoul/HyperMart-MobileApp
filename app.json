@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HperMart",
-    "slug": "HperMart",
+    "name": "HyperMart",
+    "slug": "HyperMart",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
